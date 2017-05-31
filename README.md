@@ -2,11 +2,11 @@
 
 
 ## Education
-#### GRAND CIRCUS DETROIT | JAVA CODING BOOTCAMP JUNE 2017
-#### MASTER OF ARTS| 2009 | UNIVERISTY OF MICHIGAN - DEARBORN
+#### [GRAND CIRCUS DETROIT](https://www.grandcircus.co/) | JAVA CODING BOOTCAMP JUNE 2017
+#### MASTER OF ARTS| 2009 | [UNIVERISTY OF MICHIGAN - DEARBORN](https://umdearborn.edu/)
 -Major: Secondary Education
-#### BACHELOR OF SCIENCE | 2007 | MICHIGAN STATE UNIVERSITY
--Major: Astrophysics – Lyman Briggs School
+#### BACHELOR OF SCIENCE | 2007 | [MICHIGAN STATE UNIVERSITY](https://msu.edu/)
+-Major: Astrophysics – [Lyman Briggs School](https://www.lymanbriggs.msu.edu/)
 
 ## MANAGEMENT
 - Maintained, compiled, and recorded evidence for Federal, State and Local education initiatives
