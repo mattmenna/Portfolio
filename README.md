@@ -3,13 +3,13 @@
 ### Table of Contents
 - Education
 - Skills
-- - Management
-- - Recruitment and Retention
-- - Instructional Design and Education
-- - Course Development
-- - Communication and Collaboration
-- - Leadership
-- - STEM Skills
+    - Management
+    - Recruitment and Retention
+    - Instructional Design and Education
+    - Course Development
+    - Communication and Collaboration
+    - Leadership
+    - STEM Skills
 - Educational Certifications
 - Work Experience
 
@@ -17,8 +17,8 @@
 ## Education
 #### [GRAND CIRCUS DETROIT](https://www.grandcircus.co/) | JAVA CODING BOOTCAMP JUNE 2017
 - Prework Submissions
-- - [Sum of Cubes](https://github.com/mattmenna/MathChallenge)
-- - [Date and Time](https://github.com/mattmenna/DurationBetweenDates)
+    - [Sum of Cubes](https://github.com/mattmenna/MathChallenge)
+    - [Date and Time](https://github.com/mattmenna/DurationBetweenDates)
 #### MASTER OF ARTS| 2009 | [UNIVERISTY OF MICHIGAN - DEARBORN](https://umdearborn.edu/)
 -Major: Secondary Education
 #### BACHELOR OF SCIENCE | 2007 | [MICHIGAN STATE UNIVERSITY](https://msu.edu/)
