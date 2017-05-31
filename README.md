@@ -2,10 +2,10 @@
 
 
 ## Education
-###GRAND CIRCUS DETROIT | JAVA CODING BOOTCAMP JUNE 2017
-###MASTER OF ARTS| 2009 | UNIVERISTY OF MICHIGAN - DEARBORN
+### GRAND CIRCUS DETROIT | JAVA CODING BOOTCAMP JUNE 2017
+### MASTER OF ARTS| 2009 | UNIVERISTY OF MICHIGAN - DEARBORN
 -Major: Secondary Education
-###BACHELOR OF SCIENCE | 2007 | MICHIGAN STATE UNIVERSITY
+### BACHELOR OF SCIENCE | 2007 | MICHIGAN STATE UNIVERSITY
 -Major: Astrophysics – Lyman Briggs School
 
 ## MANAGEMENT
@@ -39,3 +39,42 @@
 - Promoted new curriculum by attending professional development in the field of engineering, and assisting with the curriculum alignment of the new curriculum with the old
 - Networked with local engineering/auto businesses to get students experiences beyond the classroom
 - Developed mentor/mentee relationships with students
+## STEAM Classroom Skills
+- Office productivity software is often used in the classroom for final assignment submissions 
+- Microsoft Office
+- Google Apps
+- OpenOffice/LibreOffice
+- Vernier Probeware combined with TI-Nspire’s and LoggerPro is regularly used to integrate technology into lessons, deepen student understanding and allow for easy data analysis
+- CO2, O2, and temperature sensors to quantitatively measure the greenhouse effect.
+- Range Finders to model Sonar, projectile motion, and position, velocity and acceleration.
+- Temperature sensors to model heating, cooling curves, and specific heat experiments.
+- Calculator Technology
+- TI-84, -89 and Nspire calculators
+- Nspire Computer Software
+- GeoGebra
+- Industry standard software and hardware experience
+- Autodesk Inventor
+- RobotC
+- National Instruments LabView
+- Cura and Printrbot Simple Metal 3Dprinter
+- Arduino IDE and Microcontroller
+- Experience with a variety of LMS’s
+- PLTW’s Learning Management System
+- New Tech Network’s (Project Based)
+- E2020’s Virtual Classroom
+- Google Classroom and related apps
+- Co-Mentor of FIRST Robotics Team 4390 which worked at the Michigan Engineering Zone (MEZ) with 15 other teams
+## Education Certifications
+### STATE OF MICHIGAN | PROFESSIONAL TEACHING CERTIICATE 
+- Secondary Cert. # PF0000000899974
+- Physics - DE
+- Mathematics - EX
+- Integrated Science - DI
+### PROJECT LEAD THE WAY | PLTW
+- Introduction to Engineering Design - IED
+- Principles of Engineering - POE
+## Work Experience
+### SCIENCE AND MATH TEACHER | DEARBORN PUBLIC SCHOOLS | SEPTEMBER 2016 TO PRESENT
+### ADJUNCT FACULTY | HENRY FORD COLLEGE | SEPTEMBER 2015 TO JUNE 2016
+### SCIENCE AND MATH TEACHER | ADVANCED TECHNOLOGY ACADEMY | SEPTEMBER 2012 TO JUNE 2016
+### SCIENCE AND MATH TEACHER | RIVER ROUGE HIGH SCHOOL | SEPTEMBER 2010 TO JUNE 2012
