@@ -51,7 +51,7 @@
 - Calculator Technology
 - TI-84, -89 and Nspire calculators
 - Nspire Computer Software
-- GeoGebra
+- [GeoGebra](https://www.geogebra.org/)
 - Industry standard software and hardware experience
 - Autodesk Inventor
 - RobotC
@@ -66,11 +66,11 @@
 - Co-Mentor of FIRST Robotics Team 4390 which worked at the Michigan Engineering Zone (MEZ) with 15 other teams
 ## Education Certifications
 ### STATE OF MICHIGAN | PROFESSIONAL TEACHING CERTIICATE 
-- Secondary Cert. # PF0000000899974
+- [Secondary Cert. # PF0000000899974](https://mdoe.state.mi.us/MOECS/PublicCredentialSearch.aspx)
 - Physics - DE
 - Mathematics - EX
 - Integrated Science - DI
-### PROJECT LEAD THE WAY | PLTW
+### [PROJECT LEAD THE WAY | PLTW](https://www.pltw.org/)
 - Introduction to Engineering Design - IED
 - Principles of Engineering - POE
 ## Work Experience
