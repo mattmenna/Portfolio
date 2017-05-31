@@ -1,5 +1,18 @@
 # Matthew Menna
 
+### Table of Contents
+- Education
+- Skills
+- - Management
+- - Recruitment and Retention
+- - Instructional Design and Education
+- - Course Development
+- - Communication and Collaboration
+- - Leadership
+- - STEM Skills
+- Educational Certifications
+- Work Experience
+
 
 ## Education
 #### [GRAND CIRCUS DETROIT](https://www.grandcircus.co/) | JAVA CODING BOOTCAMP JUNE 2017
@@ -10,6 +23,8 @@
 -Major: Secondary Education
 #### BACHELOR OF SCIENCE | 2007 | [MICHIGAN STATE UNIVERSITY](https://msu.edu/)
 -Major: Astrophysics – [Lyman Briggs School](https://www.lymanbriggs.msu.edu/)
+
+# Skills
 
 ## MANAGEMENT
 - Maintained, compiled, and recorded evidence for Federal, State and Local education initiatives
@@ -67,6 +82,7 @@
 - E2020’s Virtual Classroom
 - Google Classroom and related apps
 - Co-Mentor of FIRST Robotics Team 4390 which worked at the Michigan Engineering Zone (MEZ) with 15 other teams
+
 ## Education Certifications
 ### STATE OF MICHIGAN | PROFESSIONAL TEACHING CERTIICATE 
 - [Secondary Cert. # PF0000000899974](https://mdoe.state.mi.us/MOECS/PublicCredentialSearch.aspx)
