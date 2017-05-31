@@ -20,9 +20,9 @@
     - [Sum of Cubes](https://github.com/mattmenna/MathChallenge)
     - [Date and Time](https://github.com/mattmenna/DurationBetweenDates)
 #### MASTER OF ARTS| 2009 | [UNIVERISTY OF MICHIGAN - DEARBORN](https://umdearborn.edu/)
--Major: Secondary Education
+- Major: Secondary Education
 #### BACHELOR OF SCIENCE | 2007 | [MICHIGAN STATE UNIVERSITY](https://msu.edu/)
--Major: Astrophysics – [Lyman Briggs School](https://www.lymanbriggs.msu.edu/)
+- Major: Astrophysics – [Lyman Briggs School](https://www.lymanbriggs.msu.edu/)
 
 # Skills
 
@@ -93,7 +93,7 @@
 - Introduction to Engineering Design - IED
 - Principles of Engineering - POE
 ## Work Experience
-### SCIENCE AND MATH TEACHER | DEARBORN PUBLIC SCHOOLS | SEPTEMBER 2016 TO PRESENT
-### ADJUNCT FACULTY | HENRY FORD COLLEGE | SEPTEMBER 2015 TO JUNE 2016
-### SCIENCE AND MATH TEACHER | ADVANCED TECHNOLOGY ACADEMY | SEPTEMBER 2012 TO JUNE 2016
-### SCIENCE AND MATH TEACHER | RIVER ROUGE HIGH SCHOOL | SEPTEMBER 2010 TO JUNE 2012
+- SCIENCE AND MATH TEACHER | DEARBORN PUBLIC SCHOOLS | SEPTEMBER 2016 TO PRESENT
+- ADJUNCT FACULTY | HENRY FORD COLLEGE | SEPTEMBER 2015 TO JUNE 2016
+- SCIENCE AND MATH TEACHER | ADVANCED TECHNOLOGY ACADEMY | SEPTEMBER 2012 TO JUNE 2016
+- SCIENCE AND MATH TEACHER | RIVER ROUGE HIGH SCHOOL | SEPTEMBER 2010 TO JUNE 2012
