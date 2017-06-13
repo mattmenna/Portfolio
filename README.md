@@ -12,8 +12,8 @@
     - Communication and Collaboration
     - Leadership
     - STEM Skills
-- [Educational Certifications](#
-- Work Experience
+- [Educational Certifications](#education-certifications)
+- [Work Experience](#work-experience)
 
 
 # Education
