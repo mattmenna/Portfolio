@@ -3,7 +3,7 @@
 # Objective
 
 ### Table of Contents
-- Education
+- [Education](#Education)
 - Skills
     - Management
     - Recruitment and Retention
