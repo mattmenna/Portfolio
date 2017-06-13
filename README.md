@@ -3,8 +3,8 @@
 # Objective
 
 ### Table of Contents
-- [Education](#Education)
-- Skills
+- [Education](#education)
+- [Skills](#skills)
     - Management
     - Recruitment and Retention
     - Instructional Design and Education
@@ -12,11 +12,11 @@
     - Communication and Collaboration
     - Leadership
     - STEM Skills
-- Educational Certifications
+- [Educational Certifications](#
 - Work Experience
 
 
-## Education
+# Education
 #### [GRAND CIRCUS DETROIT](https://www.grandcircus.co/) | JAVA CODING BOOTCAMP JUNE 2017
 - Prework Submissions
     - [Sum of Cubes](https://github.com/mattmenna/MathChallenge)
@@ -85,7 +85,7 @@
 - Google Classroom and related apps
 - Co-Mentor of FIRST Robotics Team 4390 which worked at the Michigan Engineering Zone (MEZ) with 15 other teams
 
-## Education Certifications
+# Education Certifications
 ### STATE OF MICHIGAN | PROFESSIONAL TEACHING CERTIICATE 
 - [Secondary Cert. # PF0000000899974](https://mdoe.state.mi.us/MOECS/PublicCredentialSearch.aspx)
 - Physics - DE
