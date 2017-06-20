@@ -3,7 +3,7 @@
 Riverview, MI 48193  
 734-231-0276  
 mattmenna@gmail.com  
-[LinkedIn Profile](lwww.linkedin.com/in/matthew-menna)  
+[LinkedIn Profile](https://www.linkedin.com/in/matthew-menna)  
 
 
 
