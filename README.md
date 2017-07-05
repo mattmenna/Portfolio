@@ -12,13 +12,8 @@ mattmenna@gmail.com
 ### Table of Contents
 - [Education](#education)
 - [Skills](#skills)
-    - Management
-    - Recruitment and Retention
-    - Instructional Design and Education
-    - Course Development
-    - Communication and Collaboration
-    - Leadership
-    - STEM Skills
+- [Technical Skills](#technical-skills)
+- [General Skills and Abilities](#skills-and-abilities)
 - [Educational Certifications](#education-certifications)
 - [Work Experience](#work-experience)
 
@@ -36,23 +31,23 @@ mattmenna@gmail.com
 # Technical Skills 
  
 ## EXPERT LEVEL
-·	Math and Physics Experience
-·	Instructional Technology
-·	Learning Management Systems
+- Math and Physics Experience
+- Instructional Technology
+- Learning Management Systems
 
 
 ## INTERMEDIATE LEVEL
-·	Java 8 with IntelliJ IDE
-·	Spring MVC Framework
-·	Hibernate Framework
-·	JavaScript, HTML, CSS
-·	Version Control / GIT
-·	Autodesk Inventor (3D CAD)
+- Java 8 with IntelliJ IDE
+- Spring MVC Framework
+- Hibernate Framework
+- JavaScript, HTML, CSS
+- Version Control / GIT
+- Autodesk Inventor (3D CAD)
 
 ## BEGINNER LEVEL
-·	C++
-·	Fortran 
-·	LaTeX
+- C++
+- Fortran 
+- LaTeX
 
 # SKILLS AND ABILITIES
 
